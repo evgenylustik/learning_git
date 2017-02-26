@@ -1,2 +1,2 @@
-def get_sum(a, b):
-    return a+b
+def deduct_num(a, b):
+    return a-b
